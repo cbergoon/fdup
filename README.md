@@ -1,6 +1,5 @@
 <h1 align="center">fdup - file duplication utility</h1>
 <p align="center">
-<a href="https://travis-ci.org/cbergoon/fdup"><img src="https://travis-ci.org/cbergoon/fdup.svg?branch=master" alt="Build"></a>
 <a href="https://goreportcard.com/report/github.com/cbergoon/fdup"><img src="https://goreportcard.com/badge/github.com/cbergoon/fdup?1=1" alt="Report"></a>
 <a href="https://godoc.org/github.com/cbergoon/fdup"><img src="https://img.shields.io/badge/godoc-reference-brightgreen.svg" alt="Docs"></a>
 <a href="#"><img src="https://img.shields.io/badge/version-0.1.0-brightgreen.svg" alt="Version"></a>
