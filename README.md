@@ -10,6 +10,8 @@ specified scope.
 
 ```fdup``` uses a hasing strategy to identify files (and/or directories) whose content is duplicated. Name and other metadata are not relevant to the results. 
 
+![](fdup-demo.gif)
+
 #### Documentation 
 
 See the docs [here](https://godoc.org/github.com/cbergoon/fdup).
